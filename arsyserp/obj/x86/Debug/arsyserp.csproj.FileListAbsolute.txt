@@ -1,0 +1,231 @@
+H:\basic design\arsyserp\arsyserp\bin\Debug\arsyserp.exe.config
+H:\basic design\arsyserp\arsyserp\bin\Debug\arsyserp.exe
+H:\basic design\arsyserp\arsyserp\bin\Debug\arsyserp.pdb
+H:\basic design\arsyserp\arsyserp\bin\Debug\Telerik.WinControls.dll
+H:\basic design\arsyserp\arsyserp\bin\Debug\Telerik.WinControls.UI.dll
+H:\basic design\arsyserp\arsyserp\bin\Debug\TelerikCommon.dll
+H:\basic design\arsyserp\arsyserp\bin\Debug\Telerik.WinControls.xml
+H:\basic design\arsyserp\arsyserp\bin\Debug\Telerik.WinControls.UI.xml
+H:\basic design\arsyserp\arsyserp\obj\x86\Debug\arsyserp.csprojResolveAssemblyReference.cache
+H:\basic design\arsyserp\arsyserp\obj\x86\Debug\arsyserp.Properties.Resources.resources
+H:\basic design\arsyserp\arsyserp\obj\x86\Debug\arsyserp.csproj.GenerateResource.cache
+H:\basic design\arsyserp\arsyserp\obj\x86\Debug\arsyserp.csproj.CoreCompileInputs.cache
+H:\basic design\arsyserp\arsyserp\obj\x86\Debug\arsyserp.csproj.CopyComplete
+H:\basic design\arsyserp\arsyserp\obj\x86\Debug\arsyserp.exe
+H:\basic design\arsyserp\arsyserp\obj\x86\Debug\arsyserp.pdb
+H:\basic design\arsyserp\arsyserp\obj\x86\Debug\arsyserp.Frmmain.resources
+H:\basic design\arsyserp\arsyserp\obj\x86\Debug\arsyserp.exe.licenses
+H:\basic design\arsyserp\arsyserp\obj\x86\Debug\arsyserp.Frmlogin.resources
+H:\basic design\arsyserp\arsyserp\bin\Debug\Telerik.WinControls.GridView.dll
+H:\basic design\arsyserp\arsyserp\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\bin\Debug\arsyserp.exe.config
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\bin\Debug\arsyserp.exe
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\bin\Debug\arsyserp.pdb
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\bin\Debug\Telerik.WinControls.dll
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\bin\Debug\TelerikCommon.dll
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\bin\Debug\Telerik.WinControls.xml
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\obj\x86\Debug\arsyserp.csprojResolveAssemblyReference.cache
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\obj\x86\Debug\arsyserp.Frmmain.resources
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\obj\x86\Debug\arsyserp.Properties.Resources.resources
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\obj\x86\Debug\arsyserp.Frmlogin.resources
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\obj\x86\Debug\arsyserp.csproj.GenerateResource.Cache
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\obj\x86\Debug\arsyserp.exe.licenses
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\obj\x86\Debug\arsyserp.csproj.CoreCompileInputs.cache
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\obj\x86\Debug\arsyserp.exe
+C:\Users\firoozeh\Desktop\last project\arsyserp\arsyserp\obj\x86\Debug\arsyserp.pdb
+H:\last project\arsyserp 0.3\arsyserp\bin\Debug\arsyserp.exe.config
+H:\last project\arsyserp 0.3\arsyserp\bin\Debug\arsyserp.exe
+H:\last project\arsyserp 0.3\arsyserp\bin\Debug\arsyserp.pdb
+H:\last project\arsyserp 0.3\arsyserp\bin\Debug\Telerik.WinControls.dll
+H:\last project\arsyserp 0.3\arsyserp\bin\Debug\Telerik.WinControls.GridView.dll
+H:\last project\arsyserp 0.3\arsyserp\bin\Debug\Telerik.WinControls.UI.dll
+H:\last project\arsyserp 0.3\arsyserp\bin\Debug\TelerikCommon.dll
+H:\last project\arsyserp 0.3\arsyserp\bin\Debug\Telerik.WinControls.xml
+H:\last project\arsyserp 0.3\arsyserp\bin\Debug\Telerik.WinControls.GridView.xml
+H:\last project\arsyserp 0.3\arsyserp\bin\Debug\Telerik.WinControls.UI.xml
+H:\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.csprojResolveAssemblyReference.cache
+H:\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.Frmmain.resources
+H:\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.Properties.Resources.resources
+H:\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.Frmlogin.resources
+H:\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.csproj.GenerateResource.cache
+H:\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.exe.licenses
+H:\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.csproj.CoreCompileInputs.cache
+H:\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.csproj.CopyComplete
+H:\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.exe
+H:\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.pdb
+E:\mansour\cod\last project\arsyserp 0.3\arsyserp\bin\Debug\arsyserp.exe.config
+E:\mansour\cod\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.exe
+E:\mansour\cod\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.pdb
+E:\mansour\cod\last project\arsyserp 0.3\arsyserp\bin\Debug\arsyserp.exe
+E:\mansour\cod\last project\arsyserp 0.3\arsyserp\bin\Debug\arsyserp.pdb
+E:\mansour\cod\last project\arsyserp 0.3\arsyserp\bin\Debug\Telerik.WinControls.dll
+E:\mansour\cod\last project\arsyserp 0.3\arsyserp\bin\Debug\Telerik.WinControls.UI.dll
+E:\mansour\cod\last project\arsyserp 0.3\arsyserp\bin\Debug\TelerikCommon.dll
+E:\mansour\cod\last project\arsyserp 0.3\arsyserp\bin\Debug\Telerik.WinControls.xml
+E:\mansour\cod\last project\arsyserp 0.3\arsyserp\bin\Debug\Telerik.WinControls.UI.xml
+E:\mansour\cod\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.csprojResolveAssemblyReference.cache
+E:\mansour\cod\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.Frmmain.resources
+E:\mansour\cod\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.Properties.Resources.resources
+E:\mansour\cod\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.Frmlogin.resources
+E:\mansour\cod\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.csproj.GenerateResource.Cache
+E:\mansour\cod\last project\arsyserp 0.3\arsyserp\obj\x86\Debug\arsyserp.exe.licenses
+E:\mansour\cod\last project\arsyserp 0.3 - Copy\arsyserp\bin\Debug\arsyserp.exe.config
+E:\mansour\cod\last project\arsyserp 0.3 - Copy\arsyserp\obj\x86\Debug\arsyserp.exe
+E:\mansour\cod\last project\arsyserp 0.3 - Copy\arsyserp\obj\x86\Debug\arsyserp.pdb
+E:\mansour\cod\last project\arsyserp 0.3 - Copy\arsyserp\bin\Debug\arsyserp.exe
+E:\mansour\cod\last project\arsyserp 0.3 - Copy\arsyserp\bin\Debug\arsyserp.pdb
+E:\mansour\cod\last project\arsyserp 0.3 - Copy\arsyserp\bin\Debug\Telerik.WinControls.dll
+E:\mansour\cod\last project\arsyserp 0.3 - Copy\arsyserp\bin\Debug\Telerik.WinControls.UI.dll
+E:\mansour\cod\last project\arsyserp 0.3 - Copy\arsyserp\bin\Debug\TelerikCommon.dll
+E:\mansour\cod\last project\arsyserp 0.3 - Copy\arsyserp\bin\Debug\Telerik.WinControls.xml
+E:\mansour\cod\last project\arsyserp 0.3 - Copy\arsyserp\bin\Debug\Telerik.WinControls.UI.xml
+E:\mansour\cod\last project\arsyserp 0.3 - Copy\arsyserp\obj\x86\Debug\arsyserp.csprojResolveAssemblyReference.cache
+E:\mansour\cod\last project\arsyserp 0.3 - Copy\arsyserp\obj\x86\Debug\arsyserp.Frmmain.resources
+E:\mansour\cod\last project\arsyserp 0.3 - Copy\arsyserp\obj\x86\Debug\arsyserp.Properties.Resources.resources
+E:\mansour\cod\last project\arsyserp 0.3 - Copy\arsyserp\obj\x86\Debug\arsyserp.Frmlogin.resources
+E:\mansour\cod\last project\arsyserp 0.3 - Copy\arsyserp\obj\x86\Debug\arsyserp.csproj.GenerateResource.Cache
+E:\mansour\cod\last project\arsyserp 0.3 - Copy\arsyserp\obj\x86\Debug\arsyserp.exe.licenses
+E:\mansour\cod\last project\arsyserp 0.4\arsyserp\bin\Debug\arsyserp.exe.config
+E:\mansour\cod\last project\arsyserp 0.4\arsyserp\obj\x86\Debug\arsyserp.exe
+E:\mansour\cod\last project\arsyserp 0.4\arsyserp\obj\x86\Debug\arsyserp.pdb
+E:\mansour\cod\last project\arsyserp 0.4\arsyserp\bin\Debug\arsyserp.exe
+E:\mansour\cod\last project\arsyserp 0.4\arsyserp\bin\Debug\arsyserp.pdb
+E:\mansour\cod\last project\arsyserp 0.4\arsyserp\bin\Debug\Telerik.WinControls.dll
+E:\mansour\cod\last project\arsyserp 0.4\arsyserp\bin\Debug\Telerik.WinControls.UI.dll
+E:\mansour\cod\last project\arsyserp 0.4\arsyserp\bin\Debug\TelerikCommon.dll
+E:\mansour\cod\last project\arsyserp 0.4\arsyserp\bin\Debug\Telerik.WinControls.xml
+E:\mansour\cod\last project\arsyserp 0.4\arsyserp\bin\Debug\Telerik.WinControls.UI.xml
+E:\mansour\cod\last project\arsyserp 0.4\arsyserp\obj\x86\Debug\arsyserp.csprojResolveAssemblyReference.cache
+E:\mansour\cod\last project\arsyserp 0.4\arsyserp\obj\x86\Debug\arsyserp.Frmmain.resources
+E:\mansour\cod\last project\arsyserp 0.4\arsyserp\obj\x86\Debug\arsyserp.Properties.Resources.resources
+E:\mansour\cod\last project\arsyserp 0.4\arsyserp\obj\x86\Debug\arsyserp.Frmlogin.resources
+E:\mansour\cod\last project\arsyserp 0.4\arsyserp\obj\x86\Debug\arsyserp.csproj.GenerateResource.Cache
+E:\mansour\cod\last project\arsyserp 0.4\arsyserp\obj\x86\Debug\arsyserp.exe.licenses
+E:\code\arsyserp 0.4 - Copy\arsyserp\bin\Debug\arsyserp.exe.config
+E:\code\arsyserp 0.4 - Copy\arsyserp\bin\Debug\arsyserp.exe
+E:\code\arsyserp 0.4 - Copy\arsyserp\bin\Debug\arsyserp.pdb
+E:\code\arsyserp 0.4 - Copy\arsyserp\bin\Debug\Telerik.WinControls.dll
+E:\code\arsyserp 0.4 - Copy\arsyserp\bin\Debug\Telerik.WinControls.GridView.dll
+E:\code\arsyserp 0.4 - Copy\arsyserp\bin\Debug\Telerik.WinControls.UI.dll
+E:\code\arsyserp 0.4 - Copy\arsyserp\bin\Debug\TelerikCommon.dll
+E:\code\arsyserp 0.4 - Copy\arsyserp\bin\Debug\Telerik.WinControls.xml
+E:\code\arsyserp 0.4 - Copy\arsyserp\bin\Debug\Telerik.WinControls.GridView.xml
+E:\code\arsyserp 0.4 - Copy\arsyserp\bin\Debug\Telerik.WinControls.UI.xml
+E:\code\arsyserp 0.4 - Copy\arsyserp\obj\x86\Debug\arsyserp.csprojResolveAssemblyReference.cache
+E:\code\arsyserp 0.4 - Copy\arsyserp\obj\x86\Debug\arsyserp.Frmmain.resources
+E:\code\arsyserp 0.4 - Copy\arsyserp\obj\x86\Debug\arsyserp.Properties.Resources.resources
+E:\code\arsyserp 0.4 - Copy\arsyserp\obj\x86\Debug\arsyserp.Frmlogin.resources
+E:\code\arsyserp 0.4 - Copy\arsyserp\obj\x86\Debug\arsyserp.csproj.GenerateResource.cache
+E:\code\arsyserp 0.4 - Copy\arsyserp\obj\x86\Debug\arsyserp.exe.licenses
+E:\code\arsyserp 0.4 - Copy\arsyserp\obj\x86\Debug\arsyserp.csproj.CoreCompileInputs.cache
+E:\code\arsyserp 0.4 - Copy\arsyserp\obj\x86\Debug\arsyserp.csproj.CopyComplete
+E:\code\arsyserp 0.4 - Copy\arsyserp\obj\x86\Debug\arsyserp.exe
+E:\code\arsyserp 0.4 - Copy\arsyserp\obj\x86\Debug\arsyserp.pdb
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\arsyserp.exe.config
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\arsyserp.exe
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\arsyserp.pdb
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Telerik.WinControls.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Telerik.WinControls.GridView.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Telerik.WinControls.UI.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\TelerikCommon.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Telerik.WinControls.xml
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Telerik.WinControls.GridView.xml
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Telerik.WinControls.UI.xml
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\obj\x86\Debug\arsyserp.csprojResolveAssemblyReference.cache
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\obj\x86\Debug\arsyserp.Frmmain.resources
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\obj\x86\Debug\arsyserp.Properties.Resources.resources
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\obj\x86\Debug\arsyserp.Frmlogin.resources
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\obj\x86\Debug\arsyserp.csproj.GenerateResource.cache
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\obj\x86\Debug\arsyserp.exe.licenses
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\obj\x86\Debug\arsyserp.csproj.CoreCompileInputs.cache
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\obj\x86\Debug\arsyserp.csproj.CopyComplete
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\obj\x86\Debug\arsyserp.exe
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\obj\x86\Debug\arsyserp.pdb
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\EnvDTE.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\stdole.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\EnvDTE80.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\VSLangProj.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\VSLangProj80.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Newtonsoft.Json.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.MSXML.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.Build.Framework.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\VSLangProj2.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\code\arsyserp 0.5 - edited connection string in kishro pc\arsyserp\obj\x86\Debug\arsyserp.presentcoprint.resources
